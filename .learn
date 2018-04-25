@@ -7,3 +7,5 @@ languages:
   - html
   - css
 resources:
+
+parent_template: git@github.com:learn-co-curriculum/learn-deploy-on-day-one.git

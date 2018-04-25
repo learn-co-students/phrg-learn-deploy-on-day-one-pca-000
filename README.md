@@ -113,6 +113,4 @@ You may need to cycle a few times until everything looks good. Once you're happy
 
   1. Easy! After editing `index.html` and `css/style.css` and adding `firstname-lastname.html`, just submit a Pull Request back to us. We'll take a look ASAP and get your change merged and deployed.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-deploy-on-day-one' title='Your first deployment'>Your first deployment</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-deploy-on-day-one'>Deploy Your Profile Page</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Your first deployment</p>
